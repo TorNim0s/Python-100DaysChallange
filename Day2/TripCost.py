@@ -21,3 +21,4 @@ def total_cost (days,city, spending):
 # settings up the trips specs so i get the cost of all of it and print it
 print (total_cost(12, "Chicago", 400))
 print (total_cost(5, "Montana", 250))
+
