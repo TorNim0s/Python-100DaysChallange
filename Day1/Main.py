@@ -33,5 +33,3 @@ while (input('To continue enter something, to exit press enter: ')):
          print (result)
     else:
         print ("invalid math case")
-
-
